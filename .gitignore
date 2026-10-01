@@ -1,0 +1,19 @@
+﻿# Visual Studio / .NET generated files
+.vs/
+**/.vs/
+**/[Bb]in/
+**/[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.dll
+*.exe
+
+# Test results
+TestResults/
+*.trx
+
+# Local tool settings
+.vscode/
