@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cfAT6T+W7Ho=",
+  "dgSpecHash": "G434EQpizBI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tshep\\Downloads\\Interview\\Interview\\InterviewApp\\InterviewApp\\InterviewApp.csproj",
+  "projectFilePath": "C:\\Users\\Tshep\\source\\repos\\Assessm\\InterviewApp\\InterviewApp\\InterviewApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tshep\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\Tshep\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
