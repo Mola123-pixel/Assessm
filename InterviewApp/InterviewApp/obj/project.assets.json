@@ -1639,11 +1639,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tshep\\Downloads\\Interview\\Interview\\InterviewApp\\InterviewApp\\InterviewApp.csproj",
+      "projectUniqueName": "C:\\Users\\Tshep\\source\\repos\\Assessm\\InterviewApp\\InterviewApp\\InterviewApp.csproj",
       "projectName": "InterviewApp",
-      "projectPath": "C:\\Users\\Tshep\\Downloads\\Interview\\Interview\\InterviewApp\\InterviewApp\\InterviewApp.csproj",
+      "projectPath": "C:\\Users\\Tshep\\source\\repos\\Assessm\\InterviewApp\\InterviewApp\\InterviewApp.csproj",
       "packagesPath": "C:\\Users\\Tshep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tshep\\Downloads\\Interview\\Interview\\InterviewApp\\InterviewApp\\obj\\",
+      "outputPath": "C:\\Users\\Tshep\\source\\repos\\Assessm\\InterviewApp\\InterviewApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1678,7 +1678,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net8.0": {
@@ -1726,7 +1726,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
